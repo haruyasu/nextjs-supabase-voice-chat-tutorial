@@ -6,13 +6,18 @@
     "start": "next start"
   },
   "dependencies": {
+    "@heroicons/react": "^2.0.16",
     "@supabase/auth-helpers-nextjs": "^0.5.4",
     "@supabase/supabase-js": "^2.7.1",
+    "@types/formidable": "^2.0.5",
     "date-fns": "^2.29.3",
-    "next": "latest",
-    "openai": "^3.1.0",
+    "formidable": "^2.1.1",
+    "mic-recorder-to-mp3": "^2.2.2",
+    "next": "^13.2.3",
+    "openai": "^3.2.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-timer-hook": "^3.0.5",
     "supabase": "^1.37.1"
   },
   "devDependencies": {
